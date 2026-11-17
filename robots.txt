@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elouardani.pages.dev/sitemap.xml

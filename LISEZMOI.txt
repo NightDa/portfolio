@@ -1,0 +1,12 @@
+PORTFOLIO - M'hamed Elouardani
+
+PUBLIER SUR CLOUDFLARE
+1. Cloudflare > Workers & Pages > projet "elouardani" > Create deployment.
+2. Glissez le CONTENU de ce dossier (index.html, css, images...) et publiez.
+
+AVANT DE PUBLIER
+1. Remplacez l'adresse "votre-email@exemple.com" par votre vraie adresse e-mail dans tous les fichiers .html
+   (dans VS Code : Edition > Remplacer dans les fichiers).
+2. Remplacez les images de images/projects/ par de vraies captures d'ecran de vos projets
+   (meme nom de fichier, format PNG, environ 1200 x 750 pixels). Les images actuelles sont des illustrations.
+3. Ajoutez votre lien GitHub quand il sera pret.
